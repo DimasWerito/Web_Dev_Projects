@@ -23,3 +23,5 @@ function fibonacciGenerator(n) {
   // Повертаємо масив чисел Фібоначчі
   return fibonacciSequence;
 }
+
+console.log(fibonacciGenerator(20));
